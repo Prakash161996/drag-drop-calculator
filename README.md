@@ -18,22 +18,3 @@ Responsive Design for mobile and desktop users.
 
 Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/drag-drop-calculator.git
-
-Navigate to the project folder:
-
-cd drag-drop-calculator
-
-Install dependencies:
-
-npm install
-
-Usage
-
-To start the development server:
-
-npm start
-
-Open http://localhost:3000 to view it in the browser.
